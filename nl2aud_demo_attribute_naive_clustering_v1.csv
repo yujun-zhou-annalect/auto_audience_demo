@@ -1,0 +1,243 @@
+Audience Description,Topic Extraction,Retrieved Data,attribute_1,retrieved_clusters,attribute_2,attribute_3,audience_name_1,audience_oneliner_1,audience_summary_1,audience_name_2,audience_oneliner_2,audience_summary_2,audience_name_3,audience_oneliner_3,audience_summary_3
+People who prioritize sustainability and are interested in environmentally friendly transportation options.,"[Sustainability, Eco-Conscious, Green Transportation, Electric Vehicles, Public Transportation, Bicycles]","{""Sustainability"": [""Green Living Attitudinal Segments"", ""Sustainability Attitude""], ""Eco-Conscious"": [""Green Living Attitudinal Segments"", ""Sustainability Attitude""], ""Green Transportation"": [""Switch to Electric"", ""Switch to Alternative Fuel"", ""Switch to Electric Luxury"", ""Switch to PHEV"", ""Switch to Pickup""], ""Electric Vehicles"": [""Electric Car"", ""Electric Non-Luxury"", ""Electric CUV/SUV"", ""Electric Luxury"", ""Alternative Fuel Car""], ""Public Transportation"": [""Taxi and Rideshare""], ""Bicycles"": [""Bicycling"", ""Mountain Biking on TV"", ""Cycling on TV""]}",('Green Living Attitudinal Segments' OR 'Sustainability Attitude') AND ('Switch to Electric' OR 'Switch to Alternative Fuel' OR 'Switch to Electric Luxury' OR 'Switch to PHEV' OR 'Switch to Pickup') AND ('Electric Car' OR 'Electric Non-Luxury' OR 'Electric CUV/SUV' OR 'Electric Luxury' OR 'Alternative Fuel Car') AND ('Taxi and Rideshare') AND ('Bicycling' OR 'Mountain Biking on TV' OR 'Cycling on TV'),"(['Public Transportation', ['Car Rental Companies - Enterprise', 'Car Rental Companies - Avis', 'Car Rental Companies - Hertz']], ['Electric Vehicles', ['Volkswagen Golf', 'Volkswagen', 'Volkswagen e-Golf']], ['Bicycles', ['Outdoors Activities', 'Sports Events', 'Sports/Outdoors']], ['Green Transportation', ['Electric', 'Switched to Electric', 'Used Electric']], ['Sustainability', ['Environmental/Wildlife  Donation', 'Charitable Organization  Donation', 'Environmental  Donation']], ['Eco-Conscious', ['Environmental/Wildlife  Donation', 'Charitable Organization  Donation', 'Environmental  Donation']])",('Green Living Attitudinal Segments' OR 'Sustainability Attitude') AND ('Switch to Electric' OR 'Switch to Alternative Fuel' OR 'Switch to Electric Luxury' OR 'Switch to PHEV' OR 'Switch to Pickup') AND ('Electric Car' OR 'Electric Non-Luxury' OR 'Electric CUV/SUV' OR 'Electric Luxury' OR 'Alternative Fuel Car') AND ('Car Rental Companies - Enterprise' OR 'Car Rental Companies - Avis' OR 'Car Rental Companies - Hertz') AND ('Bicycling' OR 'Mountain Biking on TV' OR 'Cycling on TV'),('Green Living Attitudinal Segments' OR 'Sustainability Attitude') AND ('Switch to Electric' OR 'Switch to Alternative Fuel' OR 'Switch to Electric Luxury' OR 'Switch to PHEV' OR 'Switch to Pickup') AND ('Volkswagen Golf' OR 'Volkswagen' OR 'Volkswagen e-Golf') AND ('Taxi and Rideshare') AND ('Bicycling' OR 'Mountain Biking on TV' OR 'Cycling on TV'),Eco-Conscious Vehicle Enthusiasts,"Eco-Conscious Vehicle Enthusiasts are individuals who are deeply concerned about environmental issues and are actively looking to switch to or currently own electric or alternative fuel vehicles. They are willing to invest in sustainable products and practices, including eco-friendly transportation options.","#### Lifestyle
+ **Lifestyle**
+Eco-Conscious Vehicle Enthusiasts are characterized by their strong commitment to environmental sustainability. They fall into various segments such as Eco-Practitioners, who actively engage in green practices and hold brands accountable for their environmental impact, and Eco-Convenient consumers, who are concerned about the environment but prioritize convenience in their eco-friendly actions. These individuals believe in the power of individual actions to make a difference and are motivated by a genuine concern for climate change and sustainability.
+
+
+
+#### Auto
+ **Auto**
+This audience is highly likely to be in the market for electric or alternative fuel vehicles within the next 180 days. They may be considering switching to electric CUVs/SUVs, luxury electric vehicles, plug-in hybrid electric vehicles (PHEVs), or alternative fuel cars. Some of them may already own electric or alternative fuel vehicles, indicating a strong preference for sustainable transportation options. Their interest in electric vehicles spans across various segments, including non-luxury and luxury options, highlighting their willingness to invest in eco-friendly transportation solutions.
+
+
+
+#### Travel
+ **Travel**
+Eco-Conscious Vehicle Enthusiasts are also high spenders on taxi and rideshare services, indicating a preference for convenient and flexible transportation options. They are likely to use services like Uber and Lyft frequently, reflecting their inclination towards modern and efficient travel solutions that align with their eco-conscious values.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, these individuals have a strong interest in cycling, both as a form of exercise and as a spectator sport. They engage with online content related to bicycling and spend time watching cycling events on TV. This interest in cycling further underscores their commitment to active and sustainable lifestyles.
+",Sustainability-Focused Family Planners,"Sustainability-Focused Family Planners are individuals and families who prioritize eco-friendly practices and sustainable living. They are in the market for environmentally conscious products and services, including electric and alternative fuel vehicles. They value convenience but are committed to making choices that positively impact the environment, even if it requires extra effort or cost.","#### Lifestyle
+ **Lifestyle**
+Sustainability-Focused Family Planners are characterized by their commitment to eco-friendly living and sustainable practices. They fall into segments such as Eco-Practitioners, who actively engage in green practices and hold brands accountable for their environmental impact, and Eco-Convenient consumers, who are concerned about the environment but prioritize convenience in their eco-friendly actions. These individuals believe in the power of individual actions to make a difference and are motivated by a genuine concern for climate change and sustainability. They are willing to invest in sustainable products and practices, including eco-friendly transportation options, and place a great deal of responsibility on brands to be environmentally friendly.
+
+
+
+#### Auto
+ **Auto**
+This audience is highly likely to be in the market for electric or alternative fuel vehicles within the next 180 days. They may be considering switching to electric CUVs/SUVs, luxury electric vehicles, plug-in hybrid electric vehicles (PHEVs), or alternative fuel cars. Some of them may already own electric or alternative fuel vehicles, indicating a strong preference for sustainable transportation options. Their interest in electric vehicles spans across various segments, including non-luxury and luxury options, highlighting their willingness to invest in eco-friendly transportation solutions.
+
+
+
+#### Travel
+ **Travel**
+Sustainability-Focused Family Planners are also high spenders on taxi and rideshare services, indicating a preference for convenient and flexible transportation options. They are likely to use services like Uber and Lyft frequently, reflecting their inclination towards modern and efficient travel solutions that align with their eco-conscious values.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, these individuals have a strong interest in cycling, both as a form of exercise and as a spectator sport. They engage with online content related to bicycling and spend time watching cycling events on TV. This interest in cycling further underscores their commitment to active and sustainable lifestyles.
+",Tech-Savvy Urban Explorers,"Tech-Savvy Urban Explorers are modern individuals who embrace technology and urban living. They are interested in the latest gadgets, electric vehicles, and sustainable practices. This audience values convenience, innovation, and environmental responsibility, making them early adopters of new technologies and eco-friendly solutions.","#### Lifestyle
+ **Lifestyle**
+Tech-Savvy Urban Explorers are characterized by their affinity for technology and urban living. They fall into segments such as Behavioral Greens, who think and act green, and Eco-Practitioners, who actively engage in sustainable practices and hold brands accountable for their environmental impact. These individuals are motivated by a genuine concern for climate change and sustainability, and they believe in the power of individual actions to make a difference. They are willing to invest in sustainable products and practices, including eco-friendly transportation options, and place a great deal of responsibility on brands to be environmentally friendly.
+
+
+
+#### Auto
+ **Auto**
+This audience is highly likely to be in the market for electric or alternative fuel vehicles within the next 180 days. They may be considering switching to electric CUVs/SUVs, luxury electric vehicles, plug-in hybrid electric vehicles (PHEVs), or alternative fuel cars. Some of them may already own electric or alternative fuel vehicles, indicating a strong preference for sustainable transportation options. Their interest in electric vehicles spans across various segments, including non-luxury and luxury options, highlighting their willingness to invest in eco-friendly transportation solutions.
+
+
+
+#### Travel
+ **Travel**
+Tech-Savvy Urban Explorers are also high spenders on taxi and rideshare services, indicating a preference for convenient and flexible transportation options. They are likely to use services like Uber and Lyft frequently, reflecting their inclination towards modern and efficient travel solutions that align with their eco-conscious values.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, these individuals have a strong interest in cycling, both as a form of exercise and as a spectator sport. They engage with online content related to bicycling and spend time watching cycling events on TV. This interest in cycling further underscores their commitment to active and sustainable lifestyles.
+"
+People who have the financial means to invest in luxury vehicles and also value sustainability in their purchasing decisions.,"[High Income, Luxury Vehicle Interest, Sustainable Products, Eco-Conscious Consumers]","{""High Income"": [""Household Income Range $175k - $199999"", ""Household Income Range $200k - $249999"", ""Household Income Range $250k+"", ""Total Investable Assets (Modeled)""], ""Luxury Vehicle Interest"": [""Luxury Vehicle"", ""Luxury Car"", ""Luxury CUV"", ""Luxury Compact"", ""Luxury SUV""], ""Sustainable Products"": [""Green Living Attitudinal Segments"", ""Sustainability Attitude"", ""Organic/Natural Product Seekers"", ""Natural/Organic Foods"", ""Green Consumers""], ""Eco-Conscious Consumers"": [""Green Living Attitudinal Segments"", ""Sustainability Attitude"", ""Organic/Natural Product Seekers"", ""Natural/Organic Foods"", ""Green Consumers""]}",('Household Income Range $175k - $199999' OR 'Household Income Range $200k - $249999' OR 'Household Income Range $250k+' OR 'Total Investable Assets (Modeled)') AND ('Luxury Vehicle' OR 'Luxury Car' OR 'Luxury CUV' OR 'Luxury Compact' OR 'Luxury SUV') AND ('Green Living Attitudinal Segments' OR 'Sustainability Attitude' OR 'Organic/Natural Product Seekers' OR 'Natural/Organic Foods' OR 'Green Consumers'),"(['Sustainable Products', ['Environmental/Wildlife  Donation', 'Charitable Organization  Donation', 'Environmental  Donation']], ['Luxury Vehicle Interest', ['Mercedes Benz GLE Class', 'Mercedes Benz GLA Class', 'Mercedes Benz G Class']], ['Eco-Conscious Consumers', ['Environmental/Wildlife  Donation', 'Charitable Organization  Donation', 'Environmental  Donation']])",('Household Income Range $175k - $199999' OR 'Household Income Range $200k - $249999' OR 'Household Income Range $250k+' OR 'Total Investable Assets (Modeled)') AND ('Luxury Vehicle' OR 'Luxury Car' OR 'Luxury CUV' OR 'Luxury Compact' OR 'Luxury SUV') AND ('Environmental/Wildlife  Donation' OR 'Charitable Organization  Donation' OR 'Environmental  Donation') AND ('Green Living Attitudinal Segments' OR 'Sustainability Attitude' OR 'Organic/Natural Product Seekers' OR 'Natural/Organic Foods' OR 'Green Consumers'),('Household Income Range $175k - $199999' OR 'Household Income Range $200k - $249999' OR 'Household Income Range $250k+' OR 'Total Investable Assets (Modeled)') AND ('Mercedes Benz GLE Class' OR 'Mercedes Benz GLA Class' OR 'Mercedes Benz G Class') AND ('Green Living Attitudinal Segments' OR 'Sustainability Attitude' OR 'Organic/Natural Product Seekers' OR 'Natural/Organic Foods' OR 'Green Consumers'),Eco-Conscious Auto Enthusiasts,"Eco-Conscious Auto Enthusiasts are individuals who are deeply concerned about environmental issues and are likely to switch to electric or alternative fuel vehicles. They actively engage in green practices and are willing to spend extra on sustainable products, including eco-friendly transportation options.","#### Lifestyle
+ **Lifestyle**
+Eco-Conscious Auto Enthusiasts are characterized by their strong commitment to environmental sustainability. They fall into segments such as Eco-Practitioners and Eco-Convenient consumers, who are deeply concerned about climate change and believe in the power of individual actions to make a difference. These individuals actively engage in green practices like saving water and electricity, upcycling, and donating used items. They are willing to spend extra on sustainable products and expect brands to take responsibility for environmental initiatives. However, convenience in terms of time and cost is crucial for them to adopt green practices.
+
+
+
+#### Auto
+ **Auto**
+This audience is highly interested in electric and alternative fuel vehicles. They are likely to switch to electric CUVs/SUVs, luxury electric vehicles, and plug-in hybrid electric vehicles within the next 180 days. They may currently own electric or alternative fuel cars and are open to exploring new eco-friendly vehicle options. Their purchasing decisions are influenced by their desire to reduce their carbon footprint and support sustainable transportation solutions.
+
+
+
+#### Travel
+ **Travel**
+Eco-Conscious Auto Enthusiasts are also heavy spenders on taxi and rideshare services, indicating a preference for convenient and flexible transportation options. They are likely to use services like Uber and Lyft frequently, which aligns with their eco-friendly lifestyle by reducing the need for personal vehicle ownership and promoting shared mobility.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, these individuals show a strong interest in outdoor activities such as bicycling. They engage with online content related to cycling and spend time watching cycling sports on TV. This interest in active and outdoor lifestyles complements their overall commitment to sustainability and health.
+",Health-Conscious Urban Explorers,"Health-Conscious Urban Explorers are individuals who prioritize their health and well-being, and are keen on exploring urban environments. They are highly active, engaging in outdoor activities such as cycling, and are inclined towards using eco-friendly transportation options. They value convenience and flexibility in their lifestyle choices, and are willing to invest in products and services that align with their health and environmental values.","#### Lifestyle
+ **Lifestyle**
+Health-Conscious Urban Explorers are driven by a strong commitment to maintaining their health and well-being. They are part of the GreenAware Segmentation, falling into categories such as Behavioral Greens and Think Greens. These individuals are deeply concerned about environmental issues and actively engage in green practices, such as saving water and electricity, upcycling, and donating used items. They believe in the power of individual actions to make a difference and expect brands to take responsibility for environmental initiatives. Convenience is crucial for them, and they prefer solutions that fit seamlessly into their busy urban lifestyles.
+
+
+
+#### Auto
+ **Auto**
+This audience is highly interested in eco-friendly transportation options. They are likely to switch to electric or alternative fuel vehicles, including electric CUVs/SUVs, luxury electric vehicles, and plug-in hybrid electric vehicles within the next 180 days. They may currently own electric or alternative fuel cars and are open to exploring new sustainable vehicle options. Their purchasing decisions are influenced by their desire to reduce their carbon footprint and support sustainable transportation solutions.
+
+
+
+#### Travel
+ **Travel**
+Health-Conscious Urban Explorers are frequent users of taxi and rideshare services, indicating a preference for convenient and flexible transportation options. They are likely to use services like Uber and Lyft frequently, which aligns with their eco-friendly lifestyle by reducing the need for personal vehicle ownership and promoting shared mobility. They value the convenience and flexibility that these services offer, allowing them to navigate urban environments efficiently.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, these individuals show a strong interest in outdoor activities such as bicycling. They engage with online content related to cycling and spend time watching cycling sports on TV. This interest in active and outdoor lifestyles complements their overall commitment to health and sustainability. They are likely to invest in high-quality gear and equipment that supports their active lifestyle and aligns with their environmental values.
+",Tech-Savvy Urban Commuters,"Tech-Savvy Urban Commuters are individuals who prioritize convenience and efficiency in their daily lives, particularly when it comes to transportation. They are highly interested in the latest technology and are early adopters of innovative solutions, including electric and alternative fuel vehicles. These individuals are likely to use rideshare services frequently and value flexibility and sustainability in their commuting options.","#### Lifestyle
+ **Lifestyle**
+Tech-Savvy Urban Commuters are characterized by their forward-thinking and tech-oriented mindset. They are part of the GreenAware Segmentation, often falling into categories such as Behavioral Greens and Eco-Convenient consumers. These individuals are deeply concerned about environmental issues and actively engage in green practices like saving water and electricity, upcycling, and donating used items. They believe in the power of individual actions to make a difference and expect brands to take responsibility for environmental initiatives. Convenience is crucial for them, and they prefer solutions that fit seamlessly into their busy urban lifestyles.
+
+
+
+#### Auto
+ **Auto**
+This audience is highly interested in the latest advancements in automotive technology, particularly electric and alternative fuel vehicles. They are likely to switch to electric CUVs/SUVs, luxury electric vehicles, and plug-in hybrid electric vehicles within the next 180 days. They may currently own electric or alternative fuel cars and are open to exploring new sustainable vehicle options. Their purchasing decisions are influenced by their desire to reduce their carbon footprint and support innovative transportation solutions.
+
+
+
+#### Travel
+ **Travel**
+Tech-Savvy Urban Commuters are frequent users of taxi and rideshare services, indicating a preference for convenient and flexible transportation options. They are likely to use services like Uber and Lyft frequently, which aligns with their tech-savvy and eco-friendly lifestyle by reducing the need for personal vehicle ownership and promoting shared mobility. They value the convenience and flexibility that these services offer, allowing them to navigate urban environments efficiently.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, these individuals show a strong interest in outdoor activities such as bicycling. They engage with online content related to cycling and spend time watching cycling sports on TV. This interest in active and outdoor lifestyles complements their overall commitment to health, technology, and sustainability. They are likely to invest in high-quality gear and equipment that supports their active lifestyle and aligns with their environmental values.
+"
+People who are passionate about fitness and prioritize their health and well-being. They care about high-quality athletic gear and apparel that can enhance their performance and provide durability.,"[Fitness Enthusiasts, Health Conscious, Athletic Apparel, Performance Enhancement, Durability, High Quality]","{""Fitness Enthusiasts"": [""Exercise Programming on TV"", ""Exercise"", ""Fitness Score"", ""Aerobics"", ""Sports""], ""Health Conscious"": [""Health/Medical Topics"", ""Health and Wellness Attitude"", ""Health and Nutrition Products"", ""Health Magazines"", ""Exercise/Health""], ""Athletic Apparel"": [""Sports Apparel"", ""Apparel"", ""Women's Apparel"", ""Men's Apparel"", ""Sports Apparel Retailers""], ""Performance Enhancement"": [""Performance Vehicles"", ""Performance Enhancement"", ""Sports/Outdoors Equipment""], ""Durability"": [""Durability"", ""High Quality""], ""High Quality"": [""Upscale Merchandise"", ""Luxury Attitude"", ""High Quality"", ""Quality First Shoppers"", ""High-End Appliances""]}","('Exercise Programming on TV' OR 'Exercise' OR 'Fitness Score' OR 'Aerobics' OR 'Sports') AND ('Health/Medical Topics' OR 'Health and Wellness Attitude' OR 'Health and Nutrition Products' OR 'Health Magazines' OR 'Exercise/Health') AND ('Sports Apparel' OR 'Apparel' OR ""Women's Apparel"" OR ""Men's Apparel"" OR 'Sports Apparel Retailers') AND ('Performance Vehicles' OR 'Performance Enhancement' OR 'Sports/Outdoors Equipment') AND ('Durability' OR 'High Quality') AND ('Upscale Merchandise' OR 'Luxury Attitude' OR 'Quality First Shoppers' OR 'High-End Appliances')","(['Athletic Apparel', ['Sports Apparel Retailers - Hibbett Sports', 'Sports Apparel Retailers - Quiksilver', 'Sports Apparel Retailers - JD Sports']], ['High Quality', [""Apparel Retailers - Men's Wearhouse"", 'Female-Oriented Merchandise', ""Men's and Women's Apparel/Accessories""]], ['Performance Enhancement', ['Recreation/Utility ATV', 'ATV', 'Sport ATV']], ['Fitness Enthusiasts', ['Sports on TV', 'Games on TV', 'Action Sports on TV']], ['Health Conscious', [""Women's Preventive Care"", ""Men's Interest Magazines"", ""Men's Preventive Care""]])",('Exercise Programming on TV' OR 'Exercise' OR 'Fitness Score' OR 'Aerobics' OR 'Sports') AND ('Health/Medical Topics' OR 'Health and Wellness Attitude' OR 'Health and Nutrition Products' OR 'Health Magazines' OR 'Exercise/Health') AND ('Sports Apparel Retailers - Hibbett Sports' OR 'Sports Apparel Retailers - Quiksilver' OR 'Sports Apparel Retailers - JD Sports') AND ('Performance Vehicles' OR 'Performance Enhancement' OR 'Sports/Outdoors Equipment') AND ('Durability' OR 'High Quality') AND ('Upscale Merchandise' OR 'Luxury Attitude' OR 'Quality First Shoppers' OR 'High-End Appliances'),"('Exercise Programming on TV' OR 'Exercise' OR 'Fitness Score' OR 'Aerobics' OR 'Sports') AND ('Health/Medical Topics' OR 'Health and Wellness Attitude' OR 'Health and Nutrition Products' OR 'Health Magazines' OR 'Exercise/Health') AND ('Sports Apparel' OR 'Apparel' OR ""Women's Apparel"" OR ""Men's Apparel"" OR 'Sports Apparel Retailers') AND ('Performance Vehicles' OR 'Performance Enhancement' OR 'Sports/Outdoors Equipment') AND ('Durability' OR 'High Quality') AND (""Apparel Retailers - Men's Wearhouse"" OR 'Female-Oriented Merchandise' OR ""Men's and Women's Apparel/Accessories"")",Eco-Conscious Auto Enthusiasts,Eco-Conscious Auto Enthusiasts are individuals who are deeply concerned about environmental issues and are likely to switch to electric or alternative fuel vehicles. They actively engage in green practices and prefer brands that demonstrate genuine environmental responsibility.,"#### Lifestyle
+ **Lifestyle**
+Eco-Conscious Auto Enthusiasts are characterized by their strong commitment to environmental sustainability. They fall into segments such as Eco-Practitioners, who actively engage in green practices and believe in the importance of individual actions to help the environment. They are willing to spend extra on sustainable products and expect brands to invest in long-term sustainability programs. Additionally, some may be Eco-Convenient, who are genuinely concerned about environmental issues but prefer green practices that are convenient in terms of time and cost. There are also Eco-Secondary individuals who, while not prioritizing environmental sustainability, still participate in certain eco-friendly practices like conserving resources and donating old products.
+
+
+#### Auto
+ **Auto**
+This audience is highly likely to be in the market for electric or alternative fuel vehicles. They are interested in switching to Electric CUV/SUVs, Electric Luxury vehicles, Plug-in Hybrid Electric vehicles, and other alternative fuel cars within the next 180 days. They may currently own electric vehicles, including non-luxury, luxury, and CUV/SUV models, and are considering upgrading or adding to their eco-friendly vehicle collection. Their interest in electric and alternative fuel vehicles aligns with their commitment to reducing their carbon footprint and supporting sustainable transportation options.
+
+
+#### Travel
+ **Travel**
+Eco-Conscious Auto Enthusiasts are also high spenders on taxi and rideshare services, indicating a preference for convenient and potentially eco-friendly transportation options when not using their own vehicles. They are likely to use services like Uber and Lyft frequently, reflecting their active and mobile lifestyle.
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, this audience enjoys activities that align with their eco-conscious values. They have a strong online interest in bicycling and spend time watching cycling sports on TV. This indicates a preference for outdoor activities that promote physical health and have a lower environmental impact.
+
+",Health-Conscious Outdoor Enthusiasts,Health-Conscious Outdoor Enthusiasts are individuals who prioritize their physical well-being and enjoy spending time in nature. They are active in various outdoor activities and are keen on maintaining a healthy lifestyle. They prefer brands that promote wellness and sustainability.,"#### Lifestyle
+ **Lifestyle**
+Health-Conscious Outdoor Enthusiasts are dedicated to maintaining a healthy and active lifestyle. They are often found engaging in outdoor activities such as hiking, running, and cycling. This audience values physical fitness and spends a significant amount of time and resources on health and wellness products. They are likely to be part of segments such as Behavioral Greens, who think and act green, and Eco-Practitioners, who actively engage in green practices and believe in the importance of individual actions to help the environment. They are willing to spend extra on sustainable products and expect brands to invest in long-term sustainability programs.
+
+#### Auto
+ **Auto**
+This audience is interested in vehicles that align with their active and eco-conscious lifestyle. They are likely to be in the market for electric or alternative fuel vehicles, including Electric CUV/SUVs, Electric Luxury vehicles, and Plug-in Hybrid Electric vehicles. They may currently own electric vehicles and are considering upgrading or adding to their eco-friendly vehicle collection. Their interest in sustainable transportation options reflects their commitment to reducing their carbon footprint.
+
+#### Travel
+ **Travel**
+Health-Conscious Outdoor Enthusiasts prefer eco-friendly and convenient transportation options when not using their own vehicles. They are high spenders on taxi and rideshare services, indicating a preference for services like Uber and Lyft. This audience values mobility and convenience, which complements their active lifestyle.
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, Health-Conscious Outdoor Enthusiasts enjoy activities that promote physical health and well-being. They have a strong online interest in bicycling and spend time watching cycling sports on TV. This indicates a preference for outdoor activities that are both enjoyable and beneficial to their health. They are likely to participate in sports and exercise regularly, making them a prime audience for brands promoting fitness and outdoor gear.
+",Adventure-Seeking Urban Dwellers,"Adventure-Seeking Urban Dwellers are individuals who thrive on excitement and new experiences, often found exploring the city and beyond. They value convenience and modernity, with a keen interest in technology and sustainable living. They prefer brands that offer innovative solutions and align with their dynamic lifestyle.","#### Lifestyle
+ **Lifestyle**
+Adventure-Seeking Urban Dwellers are characterized by their active and adventurous lifestyle. They fall into segments such as Behavioral Greens, who think and act green, and Eco-Convenient, who are genuinely concerned about environmental issues but prefer green practices that are convenient in terms of time and cost. They are always on the lookout for new experiences and are willing to spend extra on products that enhance their lifestyle. This audience values modernity and innovation, often seeking out the latest trends and technologies to integrate into their daily lives.
+
+#### Auto
+ **Auto**
+This audience is highly likely to be in the market for vehicles that complement their adventurous and eco-conscious lifestyle. They are interested in switching to Electric CUV/SUVs, Electric Luxury vehicles, Plug-in Hybrid Electric vehicles, and other alternative fuel cars within the next 180 days. They may currently own electric vehicles and are considering upgrading or adding to their collection. Their interest in sustainable transportation options reflects their commitment to reducing their carbon footprint while enjoying the latest automotive innovations.
+
+#### Travel
+ **Travel**
+Adventure-Seeking Urban Dwellers are high spenders on taxi and rideshare services, indicating a preference for convenient and flexible transportation options when not using their own vehicles. They frequently use services like Uber and Lyft, which aligns with their dynamic and mobile lifestyle. This audience values the ability to move quickly and efficiently through urban environments, often seeking out the most convenient travel solutions.
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+In their leisure time, Adventure-Seeking Urban Dwellers enjoy activities that provide excitement and physical engagement. They have a strong online interest in bicycling and spend time watching cycling sports on TV. This indicates a preference for outdoor activities that are both thrilling and beneficial to their health. They are likely to participate in various sports and outdoor adventures, making them a prime audience for brands promoting fitness and outdoor gear.
+"
+Athletes who are constantly pushing themselves and striving to compete at the highest level. They are driven by a desire for continuous improvement.,"[High Performance, Competitive, Driven, Ambitious, Fitness, Health Conscious, Goal-Oriented, Self-Motivation]","{""High Performance"": [""Aspirational Risk-Takers"", ""Performance Vehicles""], ""Competitive"": [""Sports on TV"", ""Motorsports on TV"", ""Sports/Outdoors"", ""Sports/Outdoors Equipment"", ""Sports Events""], ""Driven"": [""Aspirational Risk-Takers"", ""Goal-Oriented"", ""Self-Motivation""], ""Ambitious"": [""Aspirational Risk-Takers"", ""Goal-Oriented""], ""Fitness"": [""Exercise Programming on TV"", ""Exercise"", ""Aerobics"", ""Bodybuilding"", ""Bodybuilding on TV"", ""Gymnastics on TV"", ""Weightlifting on TV""], ""Health Conscious"": [""Health/Medical Topics"", ""Health and Wellness Attitude"", ""Health and Nutrition Products"", ""Exercise/Health"", ""Health Magazines"", ""Women's Preventive Care"", ""Men's Preventive Care"", ""Attitude Toward Health and Wellness""], ""Goal-Oriented"": [""Aspirational Risk-Takers"", ""Driven"", ""Ambitious"", ""Self-Motivation""], ""Self-Motivation"": [""Goal-Oriented"", ""Driven"", ""Ambitious""]}","('Aspirational Risk-Takers' OR 'Performance Vehicles') AND ('Sports on TV' OR 'Motorsports on TV' OR 'Sports/Outdoors' OR 'Sports/Outdoors Equipment' OR 'Sports Events') AND ('Goal-Oriented' OR 'Self-Motivation') AND ('Exercise Programming on TV' OR 'Exercise' OR 'Aerobics' OR 'Bodybuilding' OR 'Bodybuilding on TV' OR 'Gymnastics on TV' OR 'Weightlifting on TV') AND ('Health/Medical Topics' OR 'Health and Wellness Attitude' OR 'Health and Nutrition Products' OR 'Exercise/Health' OR 'Health Magazines' OR ""Women's Preventive Care"" OR ""Men's Preventive Care"" OR 'Attitude Toward Health and Wellness') AND ('Driven' OR 'Ambitious')","(['Fitness', ['Games on TV', 'Extreme Sports on TV', 'Action Sports on TV']], ['High Performance', ['Self-Improvement', 'Career Improvement', 'Self-improvement']], ['Ambitious', ['Self-Improvement', 'Career Improvement', 'Self-improvement']], ['Health Conscious', ['Psychology', 'Literature', 'Psychology/Psychiatry']], ['Driven', ['Self-Improvement', 'Career Improvement', 'Self-improvement']], ['Goal-Oriented', ['Self-Improvement', 'Career Improvement', 'Self-improvement']], ['Competitive', ['Basketball on TV', 'Tennis on TV', 'Volleyball on TV']])","('Aspirational Risk-Takers' OR 'Performance Vehicles') AND ('Sports on TV' OR 'Motorsports on TV' OR 'Sports/Outdoors' OR 'Sports/Outdoors Equipment' OR 'Sports Events') AND ('Goal-Oriented' OR 'Self-Motivation') AND ('Games on TV' OR 'Extreme Sports on TV' OR 'Action Sports on TV') AND ('Health/Medical Topics' OR 'Health and Wellness Attitude' OR 'Health and Nutrition Products' OR 'Exercise/Health' OR 'Health Magazines' OR ""Women's Preventive Care"" OR ""Men's Preventive Care"" OR 'Attitude Toward Health and Wellness') AND ('Driven' OR 'Ambitious')","('Self-Improvement' OR 'Career Improvement' OR 'Self-improvement') AND ('Sports on TV' OR 'Motorsports on TV' OR 'Sports/Outdoors' OR 'Sports/Outdoors Equipment' OR 'Sports Events') AND ('Aspirational Risk-Takers' OR 'Goal-Oriented' OR 'Self-Motivation') AND ('Exercise Programming on TV' OR 'Exercise' OR 'Aerobics' OR 'Bodybuilding' OR 'Bodybuilding on TV' OR 'Gymnastics on TV' OR 'Weightlifting on TV') AND ('Health/Medical Topics' OR 'Health and Wellness Attitude' OR 'Health and Nutrition Products' OR 'Exercise/Health' OR 'Health Magazines' OR ""Women's Preventive Care"" OR ""Men's Preventive Care"" OR 'Attitude Toward Health and Wellness') AND ('Driven' OR 'Ambitious')",Eco-Conscious Auto Enthusiasts,"Eco-Conscious Auto Enthusiasts are environmentally aware individuals who are in the market for electric and alternative fuel vehicles. They prioritize sustainability in their lifestyle choices and are willing to invest in eco-friendly products, including their mode of transportation.","#### Lifestyle
+ **Lifestyle**
+Eco-Conscious Auto Enthusiasts are deeply concerned about environmental issues and actively engage in green practices. They fall into segments such as Eco-Practitioners, who take climate change seriously and believe in the impact of individual actions, and Eco-Convenient consumers, who support sustainability when it is convenient. They may also include Behavioral Greens, who think and act green, and Think Greens, who support green initiatives in theory.
+
+
+
+#### Auto
+ **Auto**
+This audience is likely to be in the market for electric and alternative fuel vehicles, including Electric CUV/SUVs, Electric Luxury vehicles, and Plug-in Hybrid Electric vehicles. They are also interested in switching to electric or alternative fuel vehicles in the next 180 days. Many of them currently own electric or alternative fuel cars, reflecting their commitment to sustainable transportation.
+
+
+
+#### Travel
+ **Travel**
+Eco-Conscious Auto Enthusiasts are high spenders on taxi and rideshare services, indicating a preference for convenient and potentially eco-friendly transportation options when not using their own vehicles.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+This audience has a strong interest in bicycling, both as an online interest and as a sport they watch on TV. This aligns with their overall active and environmentally conscious lifestyle, as cycling is a sustainable mode of transportation and a healthy recreational activity.
+",Sustainable Tech Enthusiasts,"Sustainable Tech Enthusiasts are forward-thinking individuals who prioritize sustainability and are keen on integrating eco-friendly technology into their daily lives. They are proactive in adopting green practices and are particularly interested in electric and alternative fuel vehicles, as well as other innovative tech solutions that align with their eco-conscious values.","#### Lifestyle
+ **Lifestyle**
+Sustainable Tech Enthusiasts are deeply committed to environmental sustainability and are proactive in adopting green practices. They include segments such as Eco-Practitioners, who actively engage in eco-friendly activities and believe in the impact of individual actions, and Eco-Convenient consumers, who support sustainability when it is convenient. This audience is characterized by their strong belief in science and technology as solutions to environmental issues and their willingness to invest in sustainable products and practices.
+
+
+
+#### Auto
+ **Auto**
+This audience is highly interested in electric and alternative fuel vehicles, including Electric CUV/SUVs, Electric Luxury vehicles, and Plug-in Hybrid Electric vehicles. They are likely to switch to these types of vehicles within the next 180 days and many of them currently own electric or alternative fuel cars. Their interest in sustainable transportation options reflects their commitment to reducing their carbon footprint and embracing innovative tech solutions.
+
+
+
+#### Travel
+ **Travel**
+Sustainable Tech Enthusiasts are frequent users of taxi and rideshare services, indicating a preference for convenient and potentially eco-friendly transportation options when not using their own vehicles. This aligns with their overall commitment to sustainability and reducing their environmental impact.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+This audience has a strong interest in bicycling, both as an online interest and as a sport they watch on TV. This interest in cycling aligns with their active and environmentally conscious lifestyle, as it is a sustainable mode of transportation and a healthy recreational activity.
+",Tech-Savvy Green Families,Tech-Savvy Green Families are environmentally conscious households that integrate sustainable practices into their daily lives. They are keen on adopting the latest eco-friendly technologies and prefer electric and alternative fuel vehicles. These families are proactive in green practices and value brands that support sustainability.,"#### Lifestyle
+ **Lifestyle**
+Tech-Savvy Green Families are deeply committed to environmental sustainability and actively engage in green practices. They include segments such as Eco-Practitioners, who take climate change seriously and believe in the impact of individual actions, and Eco-Convenient consumers, who support sustainability when it is convenient. These families are characterized by their strong belief in science and technology as solutions to environmental issues and their willingness to invest in sustainable products and practices.
+
+
+
+#### Auto
+ **Auto**
+This audience is highly interested in electric and alternative fuel vehicles, including Electric CUV/SUVs, Electric Luxury vehicles, and Plug-in Hybrid Electric vehicles. They are likely to switch to these types of vehicles within the next 180 days and many of them currently own electric or alternative fuel cars. Their interest in sustainable transportation options reflects their commitment to reducing their carbon footprint and embracing innovative tech solutions.
+
+
+
+#### Travel
+ **Travel**
+Tech-Savvy Green Families are frequent users of taxi and rideshare services, indicating a preference for convenient and potentially eco-friendly transportation options when not using their own vehicles. This aligns with their overall commitment to sustainability and reducing their environmental impact.
+
+
+
+#### Sports/outdoors
+ **Sports/Outdoors**
+This audience has a strong interest in bicycling, both as an online interest and as a sport they watch on TV. This interest in cycling aligns with their active and environmentally conscious lifestyle, as it is a sustainable mode of transportation and a healthy recreational activity.
+"
