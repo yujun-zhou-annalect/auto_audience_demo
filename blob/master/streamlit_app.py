@@ -94,7 +94,7 @@ def main():
     if version == 'attribute_swap':
         file_to_read = "nl2aud_demo_attribute_swap_v2.csv"
     else:
-        file_to_read = "nl2aud_demo_attribute_naive_clustering_v1.csv"
+        file_to_read = "nl2aud_demo_attribute_naive_clustering_v2.csv"
 
 
     # csv_file = "nl2aud_demo_attribute_swap_v2.csv"  
